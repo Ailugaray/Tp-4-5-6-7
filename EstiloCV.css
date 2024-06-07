@@ -1,0 +1,41 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    }
+    
+    body {
+    background-color: #F8E1DD;
+    }
+    
+    #Presentacion {
+        background-color: #F1C2BB;
+    }
+    #Nombre {
+        background-color: #DBBDC4;
+    }
+    .Introduccion {
+    background-color: #F5D2CC;
+    }
+    
+    #Educacion{ 
+    background-color: #DBBDC4;
+    }
+    .Educacion {
+    background-color: #F5D2CC;
+    }
+    
+    #Deporte {
+        background-color: #DBBDC4;
+    }
+    .deporte {
+    background-color: #F5D2CC;
+    }
+    
+    /*id: son los numerales class: son los puntos*/
+    
+    #Contacto {
+        background-color: #C596A1;
+    }
+    .Contactos {
+    background-color: #DBBDC3;
+    }
+    
